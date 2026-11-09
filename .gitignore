@@ -1,0 +1,8 @@
+   data/
+   moulinette*
+   vllm-0.10.1/
+   datasets_public/
+   .venv/
+   __pycache__/
+   .mypy_cache/
+   *.pyc
