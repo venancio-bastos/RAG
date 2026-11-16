@@ -1,8 +1,14 @@
+data/
+
 moulinette*
-vllm-0.10.1/
 datasets_public/
+vllm-0.10.1/
+en.subject.pdf
+
 .venv/
 __pycache__/
-.mypy_cache/
 *.pyc
-.vscode
+.mypy_cache/
+.pytest_cache/
+
+.vscode/

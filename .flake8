@@ -1,0 +1,4 @@
+[flake8]
+# Sem isto, "flake8 ." ia analisar o vLLM inteiro em data/raw/
+exclude = .venv,data,__pycache__,.mypy_cache,.git
+max-line-length = 79
